@@ -1,0 +1,20 @@
+{
+    "name": "fh-aachen.powerwall.xrplugin",
+    "rootNamespace": "",
+    "references": [
+        "GUID:e40ba710768534012815d3193fa296cb",
+        "GUID:1a712f686cc987d4ba844ce6c9d038d9",
+        "GUID:1b614d207bd7388449eb0eeda1866194",
+        "GUID:35b909b95300bce49a38f88f7fbf9559",
+        "GUID:75469ad4d38634e559750d17036d5f7c"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

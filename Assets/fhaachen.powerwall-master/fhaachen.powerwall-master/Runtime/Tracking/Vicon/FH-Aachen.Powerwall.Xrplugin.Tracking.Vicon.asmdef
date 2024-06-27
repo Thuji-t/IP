@@ -1,0 +1,16 @@
+{
+    "name": "FH-Aachen.Powerwall.Xrplugin.Tracking.Vicon",
+    "rootNamespace": "",
+    "references": [
+        "GUID:35b909b95300bce49a38f88f7fbf9559"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

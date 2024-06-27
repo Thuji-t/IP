@@ -1,0 +1,10 @@
+{
+  "name": "FH-Aachen Powerwall",
+  "version": "1.0.0",
+  "libraryName": "PowerwallTracking",
+  "inputs": [
+    {
+      "id": "PowerwallTracking"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+# Wavefront material file
+# Created with Visionworkplace.com product
+newmtl Mauerwerk_-_Ziegel
+Kd 0.9686275 0.9686275 0.9686275
+d 1
+newmtl Holz_-_generisch_140-100-70
+Kd 0.5490196 0.3921569 0.2745098
+d 1
+newmtl Metall_-_Edelstahl_gebürstet
+Kd 0.7960784 0.7960784 0.7960784
+d 1
+newmtl Lack_-_grau_80-80-80
+Kd 0.3137255 0.3137255 0.3137255
+d 1
+newmtl Kunststoff_-_grau_70-70-70
+Kd 0.5019608 0.5019608 0.5019608
+d 1
+newmtl Glas_-_Isolierverglasung_klar
+Kd 0.9607843 0.9607843 0.9529412
+d 0.1519608
+newmtl Decke_-_Raster_500_x_500
+Kd 0 0 0
+d 1
+newmtl Ortbeton_-_bewehrt
+Kd 0.9686275 0.9686275 0.9686275
+d 1
+map_Kd Projekt1\concrete_cast-in-place_color.jpg
